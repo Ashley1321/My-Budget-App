@@ -1,0 +1,22 @@
+.transaction-item{
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
+    background-color: bisque;
+    color: black;
+    width: 400px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+
+.Expense-line{
+    border-right: 5px solid red;
+    padding-left: 50px;
+    
+}
+
+.Income-line{
+    border-right: 5px solid greenyellow;
+    padding-left: 50px;
+    
+}
