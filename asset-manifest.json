@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ashley1321/My-Budget-App.git/static/css/main.c3de64f2.css",
+    "main.js": "/Ashley1321/My-Budget-App.git/static/js/main.98536428.js",
+    "static/js/787.c4271f98.chunk.js": "/Ashley1321/My-Budget-App.git/static/js/787.c4271f98.chunk.js",
+    "static/media/logo.svg": "/Ashley1321/My-Budget-App.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ashley1321/My-Budget-App.git/index.html",
+    "main.c3de64f2.css.map": "/Ashley1321/My-Budget-App.git/static/css/main.c3de64f2.css.map",
+    "main.98536428.js.map": "/Ashley1321/My-Budget-App.git/static/js/main.98536428.js.map",
+    "787.c4271f98.chunk.js.map": "/Ashley1321/My-Budget-App.git/static/js/787.c4271f98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3de64f2.css",
+    "static/js/main.98536428.js"
+  ]
+}
