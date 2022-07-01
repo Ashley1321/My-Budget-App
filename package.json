@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Ashley1321/My-Budget-App.git",
+  "homepage": "https://ashley1321.github.io/My-Budget-App/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
